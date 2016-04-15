@@ -16,3 +16,8 @@ http://localhost:60001/Service.svc/CheckNumber?userNum=5&SecretNum=5
 
 http://localhost:60001/Service.svc/CheckNumber?userNum=6&SecretNum=5
 “too big”
+
+
+Requires NumberGuessCLI
+
+https://github.com/pgaines937/NumberGuessCLI
